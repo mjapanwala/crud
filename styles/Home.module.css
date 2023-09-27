@@ -7,10 +7,31 @@
   align-items: center;
 }
 
+.list {
+  background-color: red;
+  color: white;
+  padding: 10px;
+}
+
+.updateInput {
+  padding:6px;
+  border: black;
+  
+}
+
 .title a {
   color: #0070f3;
   text-decoration: none;
 }
+
+.rowGang {
+  padding: 6px;
+  color: lightblue;
+  font-size: 18px;
+  border:black;
+}
+
+
 
 .title a:hover,
 .title a:focus,
