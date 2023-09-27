@@ -1,6 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import { getFileInformation } from "../../posts/getData";
+import { getFileInformation } from "../posts/getData";
 import { useState } from "react";
 
 export default function Home({ allPostsData }) {
